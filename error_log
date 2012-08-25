@@ -1,0 +1,3 @@
+[24-Aug-2012 16:27:34] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 40961 bytes) in /home/redtrayw/public_html/workshop1/sites/all/modules/fontyourface/modules/google_fonts_api/google_fonts_api.module on line 164
+[24-Aug-2012 16:29:44] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 71 bytes) in /home/redtrayw/public_html/workshop1/includes/bootstrap.inc on line 977
+[24-Aug-2012 16:30:32] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17 bytes) in /home/redtrayw/public_html/workshop1/includes/menu.inc on line 355
