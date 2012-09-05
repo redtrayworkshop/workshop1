@@ -1,0 +1,106 @@
+/*====Logo Image===*/
+#header img {
+	width: 200px;
+	margin-bottom: -20px;
+	}
+
+/*====follow links block====*/
+div.follow-links .follow-link {
+	float: left;
+	margin: 2px 5px;
+	}
+#block-follow-site {
+	float: right;
+	width: 16%;
+	margin-top: 85px;
+	}
+/*====Main Menu Superfish====*/
+.region-header {
+	width: 75%; 
+	margin-top: 2em !important;
+	}
+
+#block-nice-menus-1 {
+	margin-top: 10px;
+	font-size: 125%;
+	}
+#block-nice-menus-1 li {
+	min-width: 100px;
+	text-align: center;
+	border: none;
+	background: #b2a0f8;
+	transition-property: background;
+	transition-duration: .5s;
+	-moz-transition-property: background; /* Firefox 4 */
+	-moz-transition-duration: .5s; /* Firefox 4 */
+	-webkit-transition-property: background; /* Safari and Chrome */
+	-webkit-transition-duration: .5s; /* Safari and Chrome */
+	-o-transition-property: background; /* Opera */
+	-o-transition-duration: .5s; /* Opera */
+	}
+#block-nice-menus-1 li:hover, #block-nice-menus-1 li:active {
+	background: #f7f5fe;
+	}
+#block-nice-menus-1 a:hover, #block-nice-menus-1 a:active {
+	color: #b2a0f8;
+	}
+#block-nice-menus-1 a:visited {
+	color: #fff;
+	}
+	
+#block-nice-menus-1 li.first {
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+	}
+#block-nice-menus-1 li.last {
+	border-top-right-radius: 10px;
+	}
+#block-nice-menus-1 ul.nice-menu-down li li {
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+	width: 185px;
+	border-top: none;
+	border-bottom: none;
+	text-align: left;
+	padding-left: 17px;
+	font-size: 90%;
+	}
+#block-nice-menus-1 ul.nice-menu-down li li.last {
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	}
+	
+/*====global UI stuffs====*/
+.title { color: #b2a0f8; }
+img { border: 2px solid #b2a0f8; width: 100%; height: auto; }
+.image img { width: auto; }
+#header img { border: none; }
+.file-icon { width: 15px; height: auto; }
+.image-preview { width: 200px; height: auto; }
+th img { width: 14px; height: auto; border: none; }
+.front .title { text-shadow:2px 2px 5px #d0c6fa; }
+
+	
+/*====FRONT PAGE====*/
+.front h2 {
+	border-bottom: solid 1px #b2a0f8;
+	padding-bottom: 5px;
+	margin-bottom: 25px !important;
+	margin-top: 30px !important;
+	text-shadow: 2px 2px 5px #b2a0f8;
+	}
+.front .row-item {
+	clear: both;
+	}
+	
+/*=======Board of Directors View=======*/
+.board-members .wrapper { clear: both; border-top: solid 1px #b2a0f8; padding-top: 10px; margin-top: 20px; margin-bottom: 10px; }
+.board-members .image { float: left; margin-right: 6px; max-width: 300px; }
+.board-members img { border: 2px solid #b2a0f8; } 
+.board-members .text-wrapper { padding-bottom: 10px; margin-bottom: 5px; }	
+.board-members .title { font-size: 120%; font-weight: bold; }
+.page-board-members .title { color: #b2a0f8; }
+
+.tooltip-image { display: none; }
+.tooltip-text { text-align: center; }
